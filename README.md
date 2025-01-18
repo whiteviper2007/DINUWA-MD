@@ -8,7 +8,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=DINUWA+MD+BOT;MR+DINUWA+OFC" alt="Typing SVG" /></a>
   </p>
 
-  
 
 <h1>𝗗𝗜𝗡𝗨𝗪𝗔-𝐌𝐃</h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -18,33 +17,11 @@
   <img src="https://i.postimg.cc/HntYvQzS/IMG-20250118-WA0013.jpg"width="300" height="300"/>
 
 
-<p> <b>Connect With me:</b></p>
-<p>
-<a href="https://wa.me/+94727680749"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://whatsapp.com/channel/0029Vb0Anqe9RZAcEYc2fT2c"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="undefined"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="undefined"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/mrdinesh595"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="https:"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
-</p>
 
 
-  <𝗗𝗜𝗡𝗨𝗪𝗔 𝐔𝐏𝐃𝐀𝐓𝐄>
-
-
-<p align="center"><img src="https://moe-counter.glitch.me/get/@LUCKY_MD?theme=gelbooru" alt="Lucky_Md_Visits_Counter" /></p>
-
-    
-
-    
-
-  
-
+   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-
-
-    
-
 
 
 
@@ -53,8 +30,6 @@
 <p align="center">
 <a href="https://tohid-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
-
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
