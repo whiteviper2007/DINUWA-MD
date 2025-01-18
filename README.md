@@ -1,11 +1,11 @@
 <div align="center">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=QUEEN-SADU+ＭＤ+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=DINUWA+ＭＤ+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=QUEEN SADU +MD+BOT;MR+DINESH+OFC☺️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=DINUWA+MD+BOT;MR+DINUWA+OFC" alt="Typing SVG" /></a>
   </p>
 
   
@@ -15,7 +15,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center" class= "main"> 
-  <img src="https://i.ibb.co/h8fkrRF/In-Shot-20241129-183242921.jpg"width="300" height="300"/>
+  <img src="https://i.postimg.cc/HntYvQzS/IMG-20250118-WA0013.jpg"width="300" height="300"/>
 
 
 <p> <b>Connect With me:</b></p>
@@ -27,13 +27,12 @@
 </p>
 
 
-  <𝐌𝐑 𝐃𝐈𝐍𝐄𝐒𝐇 𝐔𝐏𝐃𝐀𝐓𝐄>
+  <𝗗𝗜𝗡𝗨𝗪𝗔 𝐔𝐏𝐃𝐀𝐓𝐄>
 
 
 <p align="center"><img src="https://moe-counter.glitch.me/get/@LUCKY_MD?theme=gelbooru" alt="Lucky_Md_Visits_Counter" /></p>
 
     
-   <h1>voice aded by senuji ❤️</h1>
 
     
 
@@ -55,11 +54,6 @@
 <a href="https://tohid-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
-
-
-<p align="center">
-<a href="https://pairl-f69c1fb8884c.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
-<p/>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
