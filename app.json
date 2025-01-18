@@ -1,5 +1,5 @@
 {
-  "name": "TOHID_MD",
+  "name": "DINUWA_MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴛᴏʜɪᴅ ᴋʜᴀɴ",
   "logo": "https://i.imgur.com/M1BzE37.jpeg",
   "keywords": ["bot"],
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "DINUWA-MD"
     },  
     
     "ALIVE_IMG": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦ᴛᴏʜɪᴅ_ᴍᴅ✦"
+      "value": "DINUWA-MD"
     }, 
 
     "HEART_REACT": {
