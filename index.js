@@ -35,7 +35,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['94788001464']
+const ownerNumber = ['+94727163302']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -55,7 +55,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING QUEEN SADU_MD BOT🧬...");
+console.log("CONNECTING DINUWA_MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -83,10 +83,10 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('QUEEN SADU_MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('DINUWA_MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*[ •  QUEEN_SADU_MD - STARTED‎ • ]*
+*[ •  DINUWA_MD - STARTED‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *_Congratulations Your Bot Active Successfully_*
 *│  ◦*
@@ -100,15 +100,15 @@ let up = `
 *╰┈───────────────•*
 *[ •  B O T  - R E P O ‎ • ]*
 *╭┈───────────────•*
-*│✫➠ - 🌐URL:* *https://github.com/mrdinesh595*
+*│✫➠ - 🌐URL:* *https://github.com/dinuwamd*
 *╰┈───────────────•*
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: [${prefix}]*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ qᴜᴇᴇɴ ꜱᴀᴅᴜ
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅɪɴᴜᴡᴀ 
 *•────────────•⟢*
 `;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/xdMvP3XZ/In-Shot-20241222-002123636.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/HntYvQzS/IMG-20250118-WA0013.jpg` }, caption: up })
 
 }
 })
@@ -309,7 +309,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, qᴜᴇᴇɴ ꜱᴀᴅᴜ MD STARTED ✅");
+res.send("HEY, DINUWA MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
