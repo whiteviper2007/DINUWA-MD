@@ -28,6 +28,7 @@
 
 <a href="[https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z](https://whatsapp.com/channel/0029Vb352w8LNSa5GnqVkC3V)"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
+<a href="my yt channel"><img src="https://img.shields.io/badge/Subscribe%20My%20Youtube%20Channel-blue" alt="📎 Subscribe My Youtube Channel" width="350"></a>
 
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
@@ -35,7 +36,6 @@
 <a href="https://tohid-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
-<a href="my yt channel"><img src="https://img.shields.io/badge/Subscribe%20My%20Youtube%20Channel-blue" alt="📎 Subscribe My Youtube Channel" width="350"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
