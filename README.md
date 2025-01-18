@@ -30,6 +30,18 @@
 
 <a href="my yt channel"><img src="https://img.shields.io/badge/Subscribe%20My%20Youtube%20Channel-blue" alt="📎 Subscribe My Youtube Channel" width="350"></a>
 
+<br>
+
+<div align="center">
+ 
+  <h1>👇 DEPLOY NOW 👇</h1>
+</div>
+
+<br>
+
+
+## 🎀 BOT -  Deployment Methods
+
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
 <p align="center">
