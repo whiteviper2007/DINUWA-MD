@@ -17,7 +17,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `╭━━━〔 *QUEEN-SADU-MD* 〕━━━┈⊷
+let desc = `╭━━━〔 *DINUWA-MD* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *MUSIC DOWNLOADER*
 ┃▸└───────────···๏
@@ -32,7 +32,7 @@ let desc = `╭━━━〔 *QUEEN-SADU-MD* 〕━━━┈⊷
 ┃▸┃๏ *Ago* - ${data.ago}
 ┃▸└────────────┈⊷
 ╰━━━━━━━━━━━━━━━⪼
-> *© ᴩᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴅɪɴᴇꜱʜ ♡*`
+> *© ᴩᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴅɪɴᴜᴡᴀ ♡*`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
 //download audio
@@ -65,7 +65,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `╭━━━〔 *QUEEN-SADU-MD* 〕━━━┈⊷
+let des = `╭━━━〔 *DINUWA-MD* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *VIDEO DOWNLOADER*
 ┃▸└───────────···๏
@@ -80,7 +80,7 @@ let des = `╭━━━〔 *QUEEN-SADU-MD* 〕━━━┈⊷
 ┃▸┃๏ *Ago* - ${data.ago}
 ┃▸└────────────┈⊷
 ╰━━━━━━━━━━━━━━━⪼
-> *© Pᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴅɪɴᴇꜱʜ ♡*`
+> *© Pᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴅɪɴᴜᴡᴀ ♡*`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
 
 //download video
